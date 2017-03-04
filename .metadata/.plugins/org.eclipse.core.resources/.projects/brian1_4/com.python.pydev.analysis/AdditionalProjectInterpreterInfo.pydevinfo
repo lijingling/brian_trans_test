@@ -1,0 +1,67 @@
+-- VERSION_4
+-- START DISKCACHE_2
+/home/ljl/workspace/eclipse/brian_trans_test/.metadata/.plugins/org.eclipse.core.resources/.projects/brian1_4/com.python.pydev.analysis/v2_indexcache
+random_conn_generator|1488245442000000000|/home/ljl/workspace/eclipse/brian_trans_test/brian1_4/random_conn_generator.py
+stdp|1488274301000000000|/home/ljl/workspace/eclipse/brian_trans_test/brian1_4/stdp.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+2=random_conn_generator
+1=stdp
+-- END DICTIONARY
+-- START TREE 1
+50
+ass|1|assignments!11@
+com|1|computePopVector!18@
+con|3|connections!11@connName!11@conn_structure!11@
+cre|1|create_weights!18@
+cur|1|current_spike_count!11@
+dat|1|data_path!11@
+del|1|delay!11@
+do_|1|do_plot_performance!11@
+ee_|1|ee_STDP_on!11@
+end|2|end!11@ending!11@
+exp|2|exp_ee_pre!11@exp_ee_post!11@
+fig|1|fig_num!11@
+get|6|get_new_assignments!10@get_2d_input_weights!10@get_current_performance!10@get_matrix_from_file!10@get_recognized_number_ranking!10@get_labeled_data!10@
+inp|6|input_conn_names!11@input_population_names!11@input_connection_names!11@input_groups!11@input_intensity!11@input_numbers!11@
+j|1|j!11@
+mni|1|MNIST_data_path!11@
+n_e|1|n_e!11@
+n_i|1|n_input!11@
+neu|2|neuron_eqs_e!11@neuron_groups!11@
+nor|1|normalize_weights!10@
+nu_|2|nu_ee_post!11@nu_ee_pre!11@
+num|1|num_examples!11@
+off|1|offset!11@
+out|1|outputNumbers!11@
+plo|2|plot_performance!10@plot_2d_input_weights!10@
+pop|2|pop_values!11@population_names!11@
+pre|1|previous_spike_count!11@
+ran|1|randomDelay!18@
+rat|2|rate_monitors!11@rates!11@
+rec|2|recurrent_conn_names!11@record_spikes!11@
+ref|2|refrac_i!11@refrac_e!11@
+res|2|resting_time!11@result_monitor!11@
+run|1|runtime!11@
+sav|4|save_connections!10@save_theta!10@save_conns!11@save_connections_interval!11@
+scr|1|scr_e!11@
+sin|1|single_example_time!11@
+spa|1|sparsenMatrix!18@
+spi|2|spike_monitors!11@spike_counters!11@
+sta|2|start_input_intensity!11@start!11@
+std|2|stdp_methods!11@STDP_offset!11@
+tc_|4|tc_theta!11@tc_post_2_ee!11@tc_post_1_ee!11@tc_pre_ee!11@
+tes|2|testing!11@test_mode!11@
+the|1|theta_plus_e!11@
+tra|1|training!11@
+upd|3|update_2d_input_weights!10@update_interval!11@update_performance_plot!10@
+use|1|use_testing_set!11@
+v_r|4|v_rest_e!11@v_reset_e!11@v_rest_i!11@v_reset_i!11@
+v_t|2|v_thresh_e!11@v_thresh_i!11@
+wei|4|weight_path!11@weight!11@weightMatrix!11@weight_update_interval!11@
+wma|1|wmax_ee!11@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

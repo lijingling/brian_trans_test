@@ -1,0 +1,4 @@
+MODULES_MANAGER_V2
+random_conn_generator|/home/ljl/workspace/eclipse/brian_trans_test/brian1_4/random_conn_generator.py
+stdp|/home/ljl/workspace/eclipse/brian_trans_test/brian1_4/stdp.py
+weights.WeightReadout|/home/ljl/workspace/eclipse/brian_trans_test/brian1_4/weights/WeightReadout.py
